@@ -1,0 +1,21 @@
+
+body {
+    height: 600px;
+    width: 1200px;
+    margin: 0 auto;
+    background: url(qiu.jpg);
+    color: rgb(28, 223, 213);
+}
+
+.body h2 {
+    width: 50%;
+    height: 100px;
+    
+    margin: 0 auto;
+}
+
+h3 {
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+}
