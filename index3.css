@@ -1,7 +1,7 @@
 
 body {
-    height: 600px;
-    width: 1200px;
+    height: 680px;
+    width: 1500px;
     margin: 0 auto;
     background: url(qiu.jpg);
     color: rgb(28, 223, 213);
@@ -10,12 +10,15 @@ body {
 .body h2 {
     width: 50%;
     height: 100px;
-    
     margin: 0 auto;
 }
 
 h3 {
-    width: 50%;
+    width: 80%;
     height: 50%;
     margin: 0 auto;
+}
+h3 :hover {
+    background-color: #c33;
+    font-size: 25px;
 }
