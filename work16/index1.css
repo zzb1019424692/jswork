@@ -1,0 +1,10 @@
+#box {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    line-height: 150px;
+    text-align: center;
+    background: url(qq.jpg);
+    color: #fff;
+    border-radius: 75px;
+}
