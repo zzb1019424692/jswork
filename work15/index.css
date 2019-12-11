@@ -89,9 +89,8 @@
 }
 
 .cart-del {
-    color:  rgb(247, 12, 51);
+    color: red;
 }
-
 .cart-all {
     color: #3366D4;
 }
@@ -133,8 +132,8 @@
 .cart-bottom-btn:hover {
     background: #FF6600;
 }
-.cart-unall{
-    color: rgb(247, 12, 51);
+.cart-unall {
+    color: #3366D4;
 }
 .cart-unall:hover{
     text-decoration: underline;
